@@ -2,6 +2,7 @@
 
 int main(void)
 {
-    printf("Hello, World!\n");
+    int n=20; //defines the number of rows
+
     return 0;
 }
